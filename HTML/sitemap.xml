@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>./welcome.html</loc>
+    <lastmod>2022-05-05T08:36:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./tp_overview.html</loc>
+    <lastmod>2022-05-05T09:08:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./organizing_committee.html</loc>
+    <lastmod>2022-05-05T09:11:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./tpc.html</loc>
+    <lastmod>2022-05-05T09:19:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./reviewers.html</loc>
+    <lastmod>2022-05-05T09:26:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./search.html</loc>
+    <lastmod>2022-05-05T08:36:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./session-index.html</loc>
+    <lastmod>2022-05-05T08:36:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./author-index.html</loc>
+    <lastmod>2022-05-05T08:36:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./help.html</loc>
+    <lastmod>2022-05-05T08:36:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./</loc>
+    <lastmod>2022-05-05T09:26:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>./tags.html</loc>
+  </url>
+  
+</urlset>

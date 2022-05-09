@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICASSP 2022</title>
+    <link>./</link>
+    <description>Recent content on ICASSP 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 09:26:16 -0500</lastBuildDate>
+    
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical Program Chairs’ Welcome</title>
+      <link>./tp_overview.html</link>
+      <pubDate>Thu, 05 May 2022 09:08:43 -0500</pubDate>
+      
+      <guid>./tp_overview.html</guid>
+      <description>Woon-Seng Gan
+Professor,
+Nanyang Technological University   Kai-Kuang Ma
+Professor,
+Nanyang Technological University    It is our greatest pleasure to welcome all of you to the first tandem-hybrid ICASSP 2022. ICASSP is the world’s largest and most comprehensive technical conference focused on signal processing and its applications. This year’s edition of ICASSP is a departure from the virtual conferences held over the past two years due to the COVID-19 pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Committee</title>
+      <link>./organizing_committee.html</link>
+      <pubDate>Thu, 05 May 2022 09:11:11 -0500</pubDate>
+      
+      <guid>./organizing_committee.html</guid>
+      <description>General ChairHaizhou Li, CUHK (Shenzhen), China; NUS, Singapore  General Co-ChairSadaoki Furui, NII, Japan  Honorary ChairTsuhan Chen, NUS, Singapore  Technical Program ChairsWoon-Seng Gan, NTU, Singapore Kai Kuang Ma, NTU, Singapore  Finance ChairLei Wang, COLIPS, Singapore Yan Wu, I2R, A*STAR, Singapore  Operations ChairMinghui Dong, I2R, A*STAR, Singapore  Industry Programs &amp; Exhibition ChairFa-Long Luo , Micron, USA  Plenary ChairJay Kuo, USC, USA Helen Meng, CUHK, HK SAR, China Douglas O&#39;Shaughnessy, INRS, Canada  Special Session ChairJonathon Chambers, Uleicester, UK Zhenggou Li, I2R, A*STAR, Singapore Pina Marzilano, EPFL, Switzerland  Tutorial ChairMauro Barni, USiena, Italy Saeid Sanei, NottinghamTU, UK Tanja Schultz, U Bremen, Germany  Education Program ChairNgai-Man (Man) Cheung, SUTD, Singapore Kenan Emir Ak, I2R, A*STAR, Singapore Rongshan Yu, XMU, China Eng Siong Chng, NTU, Singapore  Grand Challenge ChairAndy Khong, NTU, Singapore Wee Peng Tay, NTU, Singapore  Show and Tell ChairNancy Chen, I2R, A*STAR, Singapore Tomi Kinnunen, UEF, Finland  Sponsorship ChairsZhizheng Wu, Facebook, USA Lei Xie, NWPU, China  Industry Exhibits ChairWei Lu , SUTD, Singapore  Industry Panel ChairSoujanya Poria, SUTD, Singapore  Industry Keynote ChairWei Jiang, German Research Center for Artificial Intelligence (DFKI), Germany  Publication ChairKenneth Lam, HKPU, HK SAR, China Berrak Sisman, SUTD, Singapore Yan Sun, URI, USA  Virtual Conference ChairKong Aik Lee, I2R, A*STAR, Singapore  Workshops ChairSiqi Cai, NUS, Singapore Rong Tong, COLIPS, Singapore  Diversity Program ChairNancy Chen, I2R, A*STAR, Singapore S.</description>
+    </item>
+    
+    <item>
+      <title>Technical Program Committee</title>
+      <link>./tpc.html</link>
+      <pubDate>Thu, 05 May 2022 09:19:17 -0500</pubDate>
+      
+      <guid>./tpc.html</guid>
+      <description>Technical Program Chairs Woon-Seng Gan
+NTU, Singapore
+Kai Kuang Ma
+NTU, Singapore
+Special Session Chairs Jonathon Chambers
+Uleicester, UK
+Zhenggou Li
+I2R, A*STAR, Singapore
+Pina Marzilano
+EPFL, Switzerland
+Applied Signal Processing Systems Ali Akbari
+Stanford
+Roozbeh Jafari
+Texas A&amp;M University
+John McAllister
+Queen’s University Belfast
+Audio and Acoustic Signal Processing Shoko Araki
+NTT Communication Science Laboratories
+Minje Kim
+Indiana University Bloomington
+Michael Mandel
+Brooklyn College, City University of New York</description>
+    </item>
+    
+    <item>
+      <title>Reviewers</title>
+      <link>./reviewers.html</link>
+      <pubDate>Thu, 05 May 2022 09:26:16 -0500</pubDate>
+      
+      <guid>./reviewers.html</guid>
+      <description>Prathosh A P, IISc
+Wallace A. Martins, University of Luxembourg &amp; Federal University of Rio de Janeiro
+Ashkan Aazami, Microsoft
+Solomon Teferra Abate, Addis Ababa University
+Mourad Abbas, High Council of Arabic Language
+Albaraesi Abdelhamid, University College London
+Ossama Abdel-Hamid, Apple Inc
+Maryam Abdolali, University of Mons
+Karim Abed-Meraim, University of Orléans
+Thushara D. Abhayapala, Australian National University (ANU)
+Elias Aboutanios, UNSW Sydney
+Vinayak Abrol, University of Oxford
+Shady Abu-Hussein, Tel Aviv University</description>
+    </item>
+    
+  </channel>
+</rss>

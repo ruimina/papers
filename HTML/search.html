@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <meta name="generator" content="Hugo 0.65.3" />
+
+  
+
+  <link rel="stylesheet" href=./css/bootstrap.min.css />
+  <link rel="stylesheet" href=./css/conference.css />
+
+  
+  <title>Search | ICASSP 2022</title>
+  
+
+</head>
+
+<body style="background-image:url('images/ICASSP2022Logo.png')" class="background-repeat">
+  
+  
+
+  <div class="container">
+    <h1>ICASSP 2022</h1>
+<h2>Search</h2>
+<hr>
+<div id="fullTable" class = "container page">
+    <div class="search_container">
+        <input class="form-control search" type="search" placeholder="Search by Paper Title, Authors or Body Text" id="filter"/>
+    </div>
+    <table id="expoTable" class = "table">
+        <thead class="thead-dark">
+        <tr>
+            <th class="PaperNum">Paper Number</th>
+            <th class="PaperTitle">Paper Title</th>
+            <th class="AuthorText">Authors</th>
+            <th class="FileName">Link</th>
+        </tr>
+        </thead>
+        <tbody id="searchResults">
+        </tbody>
+    </table>
+</div>
+
+
+<script id="template" type="x-tmpl-mustache">
+    {{#data}}
+        <tr>
+        <td class="PaperNum">{{PaperNum}}</td>
+        <td class="PaperTitle">{{PaperTitle}}</td>
+        <td class="AuthorText">{{AuthorText}}</td>
+        <td class="FileName"><a href="../pdfs/{{{FileName}}}" target="_blank">{{FileName}}</a></td>
+        </tr>
+    {{/data}}
+</script>
+
+<p style = "text-align: center;"><a href="././index.html">Main Menu</a></p>
+  </div>
+  
+  <script src=./js/jquery-3.4.0.min.js></script>
+<script src=./js/bootstrap.min.js></script>
+
+<script src=./js/all_data.js></script>
+<script src=./js/elasticlunr.min.js></script>
+<script src=./js/mustache.min.js></script>
+<script src=./js/filter.js></script>
+
+</body>
+
+</html>

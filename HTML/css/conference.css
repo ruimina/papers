@@ -1,0 +1,78 @@
+td.sessionTitle {
+  font-weight: bolder;
+}
+.ip19-img-bordered {
+  border: 1px solid black;
+  box-shadow: 2px 2px 6px #999;
+}
+.background-repeat {
+  background-repeat: repeat-y;
+  background-position: 50% 0;
+  background-size: calc(30vw + 30vh);
+}
+.org p {
+  margin-left: 1em;
+  margin-bottom: 0;
+}
+.org h3 {
+  margin-top: 1em;
+}
+.tpc p {
+  margin-bottom: 0;
+}
+.card.timeblock, .card.sessionblock {
+  background-color: #ffffffbb;
+}
+table.authorblock {
+  background-color: #ffffffbb;
+}
+
+
+.search {
+  width: 100%;
+  margin: 20px 0px;
+}
+
+#expoTable {
+  table-layout: fixed;
+}
+
+th {
+  text-align: center;
+}
+
+.PaperNum {
+  width: 12%;
+  text-align: center;
+}
+
+.PaperTitle {
+  width: 40%;
+}
+
+.AuthorTextShort {
+  width: 30%;
+}
+
+.FileName {
+  width: 18%;
+  text-align: center;
+}
+
+.signature {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.chair-img, .speaker-img {
+  max-height: 200px;
+}
+
+.contents {
+  margin-left: 1cm;
+  text-align: justify;
+}
+
+#footer img {
+  max-height: 6rem;
+}
